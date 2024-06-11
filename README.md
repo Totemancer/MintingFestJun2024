@@ -44,7 +44,7 @@ To guarantee fairness, we've published the source code of our raffle script for 
 - **Transparency:** The official game wallet is publicly viewable on the explorer: [totemancer.ton](https://tonviewer.com/totemancer.ton).
 - **Transaction Order:** Transactions are recorded in the order they arrive and are publicly visible.
 - **Results Publication:** A spreadsheet with the results will be published within 72 hours after the event ends, verifying fairness against the script.
-- **NFT Minting:** NFTs will be minted upon purchase within a reasonable time period and tradable on our [GetGems collection](https://getgems.io/totemancer). Metadata will remain hidden until the reveal event.
+- **NFT Minting:** NFTs will be minted upon purchase within a reasonable time period and tradable on our [Getgems collection](https://getgems.io/totemancer). Metadata will remain hidden until the reveal event.
 - **Limit:** Each Totemancer can mint only one totem per wallet.
 - **Hidden Totem:** Once minted, the totem will be hidden in a totem package, and the rarity will be revealed at the final reveal event.
 
