@@ -25,14 +25,14 @@ To guarantee fairness, we've published the source code of our raffle script for 
 
 ## NFT Supply
 
-- Maximum of 10,000 NFTs
+- Maximum of 7,600 NFTs
 
 ## Rarity Distribution
 
-- **Ultra Rare**: 50 NFTs (0.50%)
-- **Rare**: 450 NFTs (4.50%)
-- **Uncommon**: 1,500 NFTs (15.00%)
-- **Common**: 8,000 NFTs (80.00%)
+- **Ultra Rare**: 100 NFTs (1.32%)
+- **Rare**: 500 NFTs (6.58%)
+- **Uncommon**: 2000 NFTs (26.32%)
+- **Common**: 5,000 NFTs (65.78%)
 
 *Note: In case all NFTs are sold out, percentages overall remain the same.*
 

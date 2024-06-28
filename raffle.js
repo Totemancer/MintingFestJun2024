@@ -23,10 +23,10 @@ function shuffleArray(array, seed) {
 
 function calculateRarities(transactions) {
   return {
-    ultraRare: Math.floor(transactions * 0.005),
-    rare: Math.floor(transactions * 0.045),
-    uncommon: Math.floor(transactions * 0.15),
-    common: transactions - Math.floor(transactions * 0.005) - Math.floor(transactions * 0.045) - Math.floor(transactions * 0.15)
+    ultraRare: Math.floor(transactions * 0.0132),
+    rare: Math.floor(transactions * 0.0658),
+    uncommon: Math.floor(transactions * 0.2632),
+    common: transactions - Math.floor(transactions * 0.0132) - Math.floor(transactions * 0.0658) - Math.floor(transactions * 0.2632)
   };
 }
 
@@ -49,7 +49,7 @@ function runRaffle(txHash, transactions) {
 
   // Display results and summary
   results.forEach((result) => {
-    console.log(`TX: ${result.tx}, Rarity: ${result.rarity}`);
+    console.log(`TX/MintID: ${result.tx}, Rarity: ${result.rarity}`);
   });
 
   console.log('\nRarity Summary:');
