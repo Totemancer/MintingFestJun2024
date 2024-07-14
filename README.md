@@ -1,6 +1,10 @@
 ![Totemancer Raffle Banner](img/minting_fest.jpg)
 
-### Event Timing: To Be Announced (Planned for June 2024)
+### Event Timing:
+Whitelisted: July 15, 2024, 13:00 UTC+2
+
+Public: July 15, 2024, 14:00 UTC+2
+
 
 # Participate in the Totemancer Raffle on TON Blockchain!
 
@@ -31,22 +35,22 @@ To guarantee fairness, we've published the source code of our raffle script for 
 
 - **Ultra Rare**: 100 NFTs (1.32%)
 - **Rare**: 500 NFTs (6.58%)
-- **Uncommon**: 2000 NFTs (26.32%)
+- **Uncommon**: 2,000 NFTs (26.32%)
 - **Common**: 5,000 NFTs (65.78%)
 
-*Note: In case all NFTs are sold out, percentages overall remain the same.*
+*Note: In case not all NFTs are sold out, percentages overall remain the same.*
 
 ## Rules
 
 - **Payment:** Pay 0.25 TON to receive a guaranteed NFT. Payments must be made before the event ends or supplies run out. Track the event status on the minting page within Telegram.
-- **Duration:** The minting fest ends at TBA 16:59:00 UTC or when supplies run out.
-- **Closing Time:** Minting closes at TBA 16:50:00 UTC or automatically when supply runs out.
+- **Duration:** The minting fest runs until July 19, 2024, 14:00 UTC+2 or until supply lasts.
+- **Closing Time:** Minting closes at July 19, 2024, 13:59 UTC+2 or automatically when supply runs out.
 - **Transparency:** The official game wallet is publicly viewable on the explorer: [totemancer.ton](https://tonviewer.com/totemancer.ton).
 - **Transaction Order:** Transactions are recorded in the order they arrive and are publicly visible.
 - **Results Publication:** A spreadsheet with the results will be published within 72 hours after the event ends, verifying fairness against the script.
 - **NFT Minting:** NFTs will be minted upon purchase within a reasonable time period and tradable on our [Getgems collection](https://getgems.io/totemancer). Metadata will remain hidden until the reveal event.
 - **Limit:** Each Totemancer can mint only one totem per wallet.
-- **Hidden Totem:** Once minted, the totem will be hidden in a totem package, and the rarity will be revealed at the final reveal event.
+- **Hidden Totem:** Once minted, the totem will be hidden in a mystery package, and the rarity will be revealed on our launch date, July 22, 2024. No extra steps needed!
 
 ## Usage
 
