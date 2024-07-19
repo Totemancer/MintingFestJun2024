@@ -5,6 +5,28 @@ Whitelisted: July 15, 2024, 13:00 UTC+2
 
 Public: July 15, 2024, 14:00 UTC+2
 
+## Results:
+```
+// Last incoming transaction hash to totemancer.ton and the number of NFTs in the collection.
+node raffle.js 4614a48899b57478f5fec272b82230c428f71022d3382603f351dadd237e67a8 523
+
+Uncommon
+Common
+Uncommon
+Uncommon
+Common
+Common
+Rare
+Common
+...
+
+
+Rarity Summary:
+Ultra Rare: 6
+Rare: 34 
+Uncommon: 137
+Common: 346
+```
 
 # Participate in the Totemancer Raffle on TON Blockchain!
 
@@ -61,3 +83,4 @@ To guarantee fairness, we've published the source code of our raffle script for 
 
 ```sh
 node raffle.js HASH TX_NUM
+```
